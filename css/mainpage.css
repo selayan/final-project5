@@ -1,0 +1,16 @@
+#nav {
+
+	list-style:none;
+	padding:10px;
+	margin:10px 0 0 0;
+
+
+}
+
+#nav li {
+
+		display:inline;
+		margin-left:10px;
+
+
+}

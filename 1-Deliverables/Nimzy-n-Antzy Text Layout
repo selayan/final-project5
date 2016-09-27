@@ -1,0 +1,73 @@
+Nimzy-n-Antzy Text Layout
+
+Overview: there will be 4 screen views in this game. This game is based off characters developed by John Thomas Dispennette. The Name of the Game is "Nimzy-n-Antzy". 
+
+This app is valuable to a Cartoon Franchise named "Nimzy-n-Antzy". This video/learning game will be the first interface to the public regarding this cartoon franchise.
+
+Object of the game: 
+	1) Platform Game - Player (Nimzy) must traverse the desert on the way to the city by foot. On his way he must pick up as many of Anzty's friends on the way and take them with him.Each Ant he picks up (touches) adds 50 points to his score. Should be easy to do since they are ants and they are small. However Nimzy must be careful to jump over cactuses, rolling tumbleweeds, Stop signs, agents, and lizards.
+
+	2) Jquery Game - Player must answer 10 science questions to score 50 points each. When a player gets a right answer they get a picture of Nimzy on the screen, when they answer incorrectly the get a picture of Antzy on the screen.
+
+
+Opening Screen: Has background image of landing site with Nimzy Character in the foreground waving
+This screen has the Name/Password text field
+also has a Create Name/Create Password text field
+
+
+2nd Screen: loads outer react.js container that houses/loads the phaser game interface, this will be a platform game (mario style). 
+
+3rd Screen: loads outer react.js container that houses/loads a jquery game that the user answers to score points the point will be worth 50 points.
+ 
+
+Last Screen: loads outer react.js container that houses/loads a cool background with all the results of the page
+
+text box heading fields;
+
+field names: Ranking, Name, Score, Achievment Level;
+
+Sample scorecard:
+
+Rank ( ) Name 		Score 		Acheivement Level
+
+Rank (1) Leah		1000		900-1000 'Nimzy's Universal Explorer'
+
+Rank (2) John		750			700-799 'Nimzy's Star Scout'
+
+Rank (3) Billy		600		    600-699 'Nimzy's Atmosphere Crasher'
+
+Rank (4) EXGF 		300         300-399 'Antzy's Failed Launch'
+
+Rank (5) Dylan		50		    0-199 'New Cadet'
+
+Game is reset manually to initial state with a reset button.
+
+//////////////////////////////////////////////////////////////
+
+Completion schedule of various tasks:
+
+
+Task 							Completion Date 		Finished?
+
+Research of intended project	Aug 18 2016				Yes
+
+Detailed Screen Shots			Aug 21 2016				Yes
+and Layouts with annotations
+
+Screenshot of Trello			Aug 24 2016				Yes
+
+Working app 					Sept 10 2016			No
+
+	1) Build a folder structure with NPM installs and dependencies
+	2) Build a REACT library based interface
+	3) Build a Phaser Platform Game
+	4) Build a Jquery Game
+	5) Build Firebase Results Page
+
+Polish Project, 				Sept 17 2016			No
+Functionality Push
+Final Plan 
+
+Presentation Time				Sept 28 2016			No
+
+

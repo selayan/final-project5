@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "Nimzy1013.png",
+	"frame": {"x":1,"y":1,"w":1057,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":4,"w":1057,"h":192},
+	"sourceSize": {"w":1088,"h":196}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nimzy101.png",
+	"format": "RGBA8888",
+	"size": {"w":1059,"h":194},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8a2250ded88a50340db804b9e856e6f7:eabde902fca0e90bf00b2996723223ca:51fea772a15e2be9259cf252e03cc1e3$"
+}
+}
