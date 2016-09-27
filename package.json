@@ -1,0 +1,26 @@
+{
+  "name": "final-project5",
+  "version": "1.0.0",
+  "description": "science learning game app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrotherBuck/final-project5.git"
+  },
+  "keywords": [
+    "nimzy",
+    "antzy"
+  ],
+  "author": "John Thomas Dispennette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrotherBuck/final-project5/issues"
+  },
+  "homepage": "https://github.com/BrotherBuck/final-project5#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
